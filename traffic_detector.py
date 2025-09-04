@@ -1,4 +1,3 @@
-# traffic_detector.py
 import cv2
 import numpy as np
 from ultralytics import YOLO

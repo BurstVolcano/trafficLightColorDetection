@@ -1,4 +1,3 @@
-# main.py
 import argparse
 from traffic_detector import TrafficLightDetector
 from video_processor import VideoProcessor
