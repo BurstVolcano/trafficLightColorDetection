@@ -155,7 +155,7 @@ Yellow (0.76)
 5. Classify based on dominant color presence
 
 ### YOLO Integration
-- Uses pre-trained COCO weights (class 9 = traffic light)
+- Uses pre-trained COCO weights
 - Confidence threshold filtering
 - Non-maximum suppression for overlapping detections
 - Real-time inference optimization
@@ -190,26 +190,9 @@ WARNING: AVCaptureDeviceTypeExternal is deprecated...
 ```
 This is a harmless system warning and doesn't affect functionality.
 
-## Future Enhancements
-
-- [ ] Custom traffic light model training
-- [ ] Support for horizontal traffic lights
-- [ ] Night vision and low-light optimization
-- [ ] Multiple camera support
-- [ ] Traffic flow analysis
-- [ ] Integration with traffic management systems
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
