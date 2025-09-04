@@ -107,11 +107,10 @@ python main.py -c 1
 ```
 traffic-light-detection/
 │
-├── main.py              # Main detection script
-├── requirements.txt     # Python dependencies
-├── README.md           # This file
-├── samples/            # Sample videos/images
-└── docs/               # Documentation
+├── main.py              
+├── requirements.txt  
+└── README.md          
+
 ```
 
 ## Output
